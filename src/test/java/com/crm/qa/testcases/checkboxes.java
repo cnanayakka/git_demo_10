@@ -17,7 +17,7 @@ public class checkboxes extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
 
-    public checkboxes(){
+    public checkboxesss(){
         super();
     }
 
